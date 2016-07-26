@@ -4,7 +4,7 @@
 ###
 
 Proxy = require 'http-mitm-proxy'
-POGOProtos = require 'pokemongo-protobuf'
+POGOProtos = require 'pogo-protobufjs'
 changeCase = require 'change-case'
 https = require 'https'
 fs = require 'fs'
